@@ -9,6 +9,6 @@ I'm a develoepr at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeS
 ## Tech/Ideas I dig:
 - Containers (OCI all day every day)
 - µServices
-- Roll your own (sometimes... know your dependecy chains)
+- Roll your own (Sometimes... Know your dependecy chains)
 - Networking (It's what go me started)
 - Plug and play (Codebase, I am your inteface)
