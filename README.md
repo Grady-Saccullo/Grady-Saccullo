@@ -5,8 +5,9 @@
 I'm a develoepr at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeScript, and some other fun languages.
 
 ## Tech/Ideas I dig:
-- Containers (OCI all day every day)
+- Hey Docker... How does one compose?
 - µServices
 - Roll your own (Sometimes... Know your dependecy chains)
 - Networking (It's what go me started)
-- Plug and play (Codebase, I am your inteface)
+- PnP (Codebase, I am your inteface)
+- Microcontrollers/µElectonics
