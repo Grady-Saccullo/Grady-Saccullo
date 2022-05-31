@@ -10,4 +10,4 @@ I'm a develoepr at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeS
 - Roll your own (Sometimes... Know your dependecy chains)
 - Networking (It's what go me started)
 - PnP (Codebase, I am your inteface)
-- Microcontrollers/µElectonics
+- µControllers/µElectonics
