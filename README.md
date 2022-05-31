@@ -2,7 +2,7 @@
 
 ---
 
-I'm a develoepr at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeScript, and some other fun languages.
+I'm a Senior Full Stack Engineer at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeScript, and some other fun languages.
 
 ## Tech/Ideas I dig:
 - Hey Docker... How does one compose?
