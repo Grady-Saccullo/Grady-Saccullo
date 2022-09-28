@@ -4,7 +4,7 @@
 
 I'm a Senior Full Stack Engineer at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeScript, and some other fun languages.
 
-## Tech/Ideas I dig:
+## Some items I find tantalizing:
 - Hey Docker... How does one compose?
 - µServices
 - Roll your own (Sometimes... Know your dependecy chains)
