@@ -2,11 +2,16 @@
 
 ---
 
-I'm a Lead Computer Lingusitc Engineer at [@Voze](https://github.com/Voze-HQ) and [@Seer AI](https://github.com/Seer-AI).
+I'm a Lead Computer Lingusitc Engineer (SWE) at [@Voze](https://github.com/Voze-HQ) and [@Seer AI](https://github.com/Seer-AI).
 
-Currently working with TypeSript, NextJS, Auth0, Supbase, Monorepos, and AWS CDK.
+## Works Skillage
+[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,postgres,nextjs,redux,aws,supabase,cloudflare,docker)](https://skillicons.dev)
 
-If I could only use my fav langs would be TypeScript, Go, and Rust.
+Currently working with TypeScript, NextJS, Auth0, Supbase, Monorepos, Postgres, and AWS CDK.
+
+## Personal Skillage
+[![My Skills](https://skillicons.dev/icons?i=ts,go,rust,swift,nextjs,raspberrypi)](https://skillicons.dev)
+
 
 ## Some items I find tantalizing:
 - Hey Docker... How does one compose?
