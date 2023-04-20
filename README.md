@@ -4,13 +4,13 @@
 
 I'm a Lead Computer Lingusitc Engineer (SWE) at [@Voze](https://github.com/Voze-HQ) and [@Seer AI](https://github.com/Seer-AI).
 
-## Works Skillage
-[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,postgres,nextjs,redux,aws,supabase,cloudflare,docker)](https://skillicons.dev)
+## Work Skillage
+[![Work Skillage](https://skillicons.dev/icons?i=ts,go,nodejs,postgres,nextjs,redux,aws,supabase,cloudflare,docker)](https://skillicons.dev)
 
 Currently working with TypeScript, NextJS, Auth0, Supbase, Monorepos, Postgres, and AWS CDK.
 
 ## Personal Skillage
-[![My Skills](https://skillicons.dev/icons?i=ts,go,rust,swift,nextjs,raspberrypi)](https://skillicons.dev)
+[![Personal Skillage](https://skillicons.dev/icons?i=rust,swift,raspberrypi)](https://skillicons.dev)
 
 
 ## Some items I find tantalizing:
