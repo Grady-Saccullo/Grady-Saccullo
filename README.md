@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Lead Computer Lingusitc Engineer at [@Voze](https://voze.com) working with CDK, TypeSript, and React.
+I'm a Lead Computer Lingusitc Engineer at [@Voze](https://github.com/Voze-HQ) working with CDK, TypeSript, and React.
 
 If I could only use my fav langs would be TypeScript, Go, and Rust.
 
