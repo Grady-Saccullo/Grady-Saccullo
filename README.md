@@ -2,7 +2,9 @@
 
 ---
 
-I'm a Senior Full Stack Engineer at [@VoyageSMS](https://voyagesms.com) building in C#, Go, TypeScript, and some other fun languages.
+I'm a Lead Computer Lingusitc Engineer at [@Voze](https://voze.com) working with CDK, TypeSript, and React.
+
+If I could only use my fav langs would be TypeScript, Go, and Rust.
 
 ## Some items I find tantalizing:
 - Hey Docker... How does one compose?
