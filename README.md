@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Lead Computer Lingusitc Engineer (SWE) at [@Voze](https://github.com/Voze-HQ) and [@Seer AI](https://github.com/Seer-AI).
+Co-Founder [@Seer AI](https://github.com/Seer-AI) and Lead Computer Lingusitc Engineer (SWE) at [@Voze](https://github.com/Voze-HQ).
 
 ## Work Skillage
 [![Work Skillage](https://skillicons.dev/icons?i=ts,go,nodejs,postgres,nextjs,redux,aws,supabase,cloudflare,docker)](https://skillicons.dev)
