@@ -4,7 +4,7 @@
 
 Co-Founding Engineer [@Seer AI](https://github.com/Seer-AI) and Lead Computer Lingusitc Engineer (SWE) at [@Voze](https://github.com/Voze-HQ).
 
-Currently working with TypeScript, Go, Pyhton, NextJS, Auth0, Supbase, Monorepos, Containers, Postgres, and AWS.
+Currently working with TypeScript, Go, Python, NextJS, Auth0, Supbase, Monorepos, Containers, Postgres, and AWS.
 
 ### Editors (the one and only)
 [![Editors](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
