@@ -10,16 +10,19 @@ Currently working with Swift (UIKit/SwiftUI), Go, Python, Containers, SQLite, an
 [![Editors](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 
 ### Langs
-[![Langs](https://skillicons.dev/icons?i=ts,go,nodejs,swift,postgres,sqlite)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=ts,go,nodejs,swift,py,nix,zig,rust)](https://skillicons.dev)
 
-### Frameworks/Libraries
-[![Langs](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
+### DBs
+[![DBs](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
+
+### Front End
+[![FE](https://skillicons.dev/icons?i=htmx,react,nextjs,redux)](https://skillicons.dev)
 
 ### Services/Tooling
-[![Work Skillage](https://skillicons.dev/icons?i=aws,cloudflare,docker)](https://skillicons.dev)
+[![Service-Tooling](https://skillicons.dev/icons?i=aws,cloudflare,docker)](https://skillicons.dev)
 
-### Personal Project Skillage
-[![Personal Skillage](https://skillicons.dev/icons?i=zig,rust,htmx,raspberrypi)](https://skillicons.dev)
+### Other
+[![Other](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
 
 ## Some items I find tantalizing:
