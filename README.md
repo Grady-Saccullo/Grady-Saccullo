@@ -10,7 +10,7 @@ Currently working with Swift (UIKit/SwiftUI), Go, Python, Containers, SQLite, an
 [![Editors](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 
 ### Langs
-[![Langs](https://skillicons.dev/icons?i=ts,go,nodejs,swift,py,nix,zig)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=ts,go,swift,py,nix,zig)](https://skillicons.dev)
 
 ### DBs
 [![DBs](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
