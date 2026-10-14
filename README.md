@@ -6,3 +6,4 @@ Integrations and Data Team Lead [@Voze](https://github.com/Voze-HQ).
 
 Currently working with Go, DBT, Athena, Postgres, and AWS.
 
+<!--- If you found me... 🤫. Go check out @remount-hq for cool dev things --->
